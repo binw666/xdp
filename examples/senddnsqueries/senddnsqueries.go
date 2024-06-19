@@ -12,7 +12,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/asavie/xdp"
+	"github.com/binw666/xdp"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"github.com/miekg/dns"
